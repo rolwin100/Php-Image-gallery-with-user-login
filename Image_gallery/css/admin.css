@@ -1,0 +1,106 @@
+body
+{
+	background: #F4F3EF;
+}
+
+hr
+{
+	height: 2px;
+	background-color:#808080;
+	color:#E60211;
+	border: 0 none;
+}
+
+header
+{
+	border-bottom: 1px solid grey;
+}
+
+.btn-right
+{
+	float: right;
+}
+
+.custom
+{
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-family: 'Muli', "Helvetica", Arial, sans-serif;
+}
+
+.category
+{
+	font-size: 14px;
+	font-weight: 400;
+	color: #9A9A9A;
+	margin-bottom: 0px;
+}
+
+.btn-warning
+{
+	border-radius: 10px;
+	border: 0px;
+}
+
+.dashboard
+{
+	float: left;
+	font-size:30px;
+	font-weight: 600;
+	margin-top: 5px;
+}
+
+.btn-logout
+{
+	color: #F28D0A;
+	border: 1px solid #F28D0A;
+	background: #F4F3EF;
+}
+
+.btn-logout: hover
+{
+	background: #F28D0A;
+}
+
+.admin-text
+{
+	letter-spacing: 10px;
+}
+
+.card
+{
+	border-radius: 6px;
+	box-shadow: 0 2px 2px rgba(204, 197, 185, 0.5);
+	background-color: #FFFFFF;
+	color: #252422;
+	margin-bottom: 20px;
+	position: relative;
+	z-index: 1
+}
+
+.card .content {
+    padding: 15px 15px 10px 15px;
+}
+
+/*round button css*/
+
+/*modal*/
+
+.modal-header-primary {
+    color:#fff;
+    padding:9px 15px;
+    border-bottom:1px solid #eee;
+    background-color: #E8565D;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+     border-top-left-radius: 5px;
+     border-top-right-radius: 5px;
+}
+
+.center-img
+{
+	display: block;
+    margin: 0 auto;
+}
