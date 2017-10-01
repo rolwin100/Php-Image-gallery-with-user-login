@@ -47,7 +47,7 @@
 </head>
 <body>
 <form class="form-signin" method="POST" action="">
-        <h2 class="form-signin-heading" style="text-align: center;"><span style="color: #2B669A">Admin</span> Login</h2>
+        <h2 class="form-signin-heading" style="text-align: center;"><span style="color: #2B669A">User</span> Login</h2>
         <div class="input-group">
 		  <span class="input-group-addon" id="basic-addon1">@</span>
 		  <input type="text" name="username" class="form-control" placeholder="Username" required>
